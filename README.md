@@ -1,4 +1,4 @@
-# iOS 18 Jailbreak - Include all the information (2024 Online Guide)
+ (2024 Online Guide)
 
 ## iOS 18 Jailbreak Availability Checking Status
 
