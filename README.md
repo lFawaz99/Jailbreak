@@ -1,5 +1,5 @@
  (2024 Online Guide)
-
+# iOS 18 Jailbreak - Include all the information
 ## iOS 18 Jailbreak Availability Checking Status
 
 If you are an iOS 18 Beta to iOS 17 user or have an iPhone 15 Pro Max to iPhone 7, you have only [web-based jailbreak solutions](https://github.com/iOS18Update/Jailbreak?tab=readme-ov-file#solution-1---using-the-hacksnow-semi-jailbreak-tool) like Hacksnow and Cydia 2 tools.
